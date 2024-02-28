@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'dcrm.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'shajay',
-        'USER':'root',
-        'PASSWORD':'1234',
+        'NAME': 'root 2',
+        'USER':'root 2',
+        'PASSWORD':'UQ6tfhrSMXa[Vc6a',
         'HOST':'localhost',
         'PORT' : '3306',
     }
